@@ -1,5 +1,5 @@
 //1
-const numberOfFilms = +prompt ("How many films did you already see?", ""); //+prompt if we need only numbers? not string
+const numberOfFilms = prompt ('How many films did you already see?', ''); //+prompt if we need only numbers? not string
 
 
 //2
