@@ -14,7 +14,7 @@ if(num < 49){
 
 //2
 
-const count = 10
+const count = 19;
 
 switch(count){
     case 5:
