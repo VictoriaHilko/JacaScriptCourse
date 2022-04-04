@@ -1,6 +1,14 @@
 "use strict";
-/*
+
 const arr = [1,2,3,6,8];
+arr.sort();
+
+//функция для сортировки массива чисел в браузере
+//
+function compareNum(a, b){
+    return a-b;
+}
+console.log(arr); 
 
 console.log(arr.length);
 
@@ -21,7 +29,7 @@ for (let value of arr){
 //or this:
 arr.forEach(function(item, i, arr){ //callback function
     console.log(`${i}: ${item} inside massive ${arr}`);
-});*/
+});
 
 //
 const str = prompt("", "");

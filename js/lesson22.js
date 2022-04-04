@@ -93,3 +93,19 @@ function log(a,b,c){
     console.log(c);
 }
 
+const num = ['link','picture','author'];
+
+log(...num);
+
+//Созд. поверхносной копии объекта с помощью Spread operator
+
+const array = ["a", "b"];
+const nArray = [...array];
+
+
+const w = {
+    one: 1,
+    two: 2
+};
+
+const nObject = {... w};
