@@ -1,2 +1,0 @@
-# JacaScriptCourse
-Learninr JavaScript+React
